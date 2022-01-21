@@ -27,6 +27,7 @@ Also I holds a Master's degree since 2011 in Computer Science and envolve in som
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&link=https://github.com/AlexanderKhudoev)](https://github.com/AlexanderKhudoev)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&link=https://github.com/AlexanderKhudoev)](https://github.com/AlexanderKhudoev)
 [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&link=https://github.com/AlexanderKhudoev)](https://github.com/AlexanderKhudoev)
+[![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white&link=https://www.gatsbyjs.com/)]
 
 ### 🤖 Backend
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&link=https://laravel.com)](https://laravel.com)
